@@ -39,6 +39,7 @@ https://www.bitdefender.com/support/how-to-reset-sql-server-sa-password-using-mi
 
 # exponer el sv al mundo
 npm install -g localtunnel
+
 Iniciar el sv en consola.
 
 En otra consola ir al sv y usar:
