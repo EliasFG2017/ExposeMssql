@@ -14,13 +14,8 @@ node app.js   /  nodemon app
 # Config
 El archivo config tiene cosas que no uso, lo que si puse ahi son las credenciales para conectarse a sql server ( ahi pon tus credenciales de autentificacion con sql server) . EN mi caso el server es localhost ( localhost//SQLEXPRESS si instalaste el sql express), cree la bd de pruebas test, El puerto por defecto es el 1433( lo pongas a mano o no):
 
-"datasources": {
-        "user": 'sa',
-        "password": 'adsttt123',
-        "server": 'localhost',
-        "database": 'test',
-        "port": '1433'
-    }
+https://ibb.co/nO39To
+
 
 # SQL SERVER
 tienes que tener esta opcion habilitada:
